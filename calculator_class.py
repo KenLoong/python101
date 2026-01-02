@@ -8,7 +8,7 @@ class calculator:
         print(res)
     
     def mul(x,y):
-        res = x * y
+        res =  x * y
         print(res)
 
     def div(x,y):
